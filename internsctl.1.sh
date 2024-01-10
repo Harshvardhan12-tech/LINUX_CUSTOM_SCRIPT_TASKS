@@ -1,4 +1,4 @@
-.TH INTERNSCTL 1 "October 2023"
+.TH INTERNSCTL 1 "January 2024"
 .SH NAME
 internsctl \- Custom Linux Command for Interns
 .SH SYNOPSIS
